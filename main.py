@@ -10,7 +10,7 @@ import markups as nav
 import asyncio
 
 
-API_TOKEN = '6330717475:AAG1Oy3W1WD8H2YQpb07JTPBQJNMuPDv8Q8'
+API_TOKEN = ''
 bot = Bot(token=API_TOKEN)
 dp = Dispatcher(bot)
 
